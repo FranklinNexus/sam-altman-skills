@@ -151,8 +151,8 @@ cd sam-altman-skills
 ## 参考语料
 
 本仓库是 **Sam Altman 公开内容的行为蒸馏**，不是全文库。  
-中文译文全集见 [founder-blog-zh → `sam-altman/`](https://github.com/FranklinNexus/founder-blog-zh/tree/main/sam-altman)（仅 Sam，与 PG、张一鸣分目录）。  
-语料来自**互联网公开记录**；说明见 [NOTICE.md](https://github.com/FranklinNexus/founder-blog-zh/blob/main/NOTICE.md)。
+中文译文见 [PG · Sam · 张一鸣中文译文库 → `sam-altman/`](https://github.com/FranklinNexus/pg-sam-zym-quotes-zh/tree/main/sam-altman)（仅 Sam，与 PG、张一鸣分目录）。  
+语料来自**互联网公开记录**；说明见 [NOTICE.md](https://github.com/FranklinNexus/pg-sam-zym-quotes-zh/blob/main/NOTICE.md)。
 
 ---
 

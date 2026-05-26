@@ -148,6 +148,14 @@ cd sam-altman-skills
 ---
 
 
+## 参考语料
+
+本仓库是 **Sam Altman 公开内容的行为蒸馏**，不是全文库。  
+中文译文全集见 [founder-blog-zh → `sam-altman/`](https://github.com/FranklinNexus/founder-blog-zh/tree/main/sam-altman)（仅 Sam，与 PG、张一鸣分目录）。  
+语料来自**互联网公开记录**；说明见 [NOTICE.md](https://github.com/FranklinNexus/founder-blog-zh/blob/main/NOTICE.md)。
+
+---
+
 ## 边界说明
 
 - 行为蒸馏包，非 Sam 原文镜像；不角色扮演，不提供投资/法律意见。

@@ -147,13 +147,6 @@ cd sam-altman-skills
 
 ---
 
-## FAQ
-
-### Contributors 显示 Cursor Agent？
-
-来自历史 commit 中的 `Co-authored-by: Cursor` 行，已清理；若仍显示请硬刷新。
-
----
 
 ## 边界说明
 

@@ -8,6 +8,10 @@
 [![Runtime](https://img.shields.io/badge/Runtime-Cursor%20%7C%20Claude%20%7C%20Antigravity-lightgrey)](https://github.com/FranklinNexus/sam-altman-skills)
 [![Focus](https://img.shields.io/badge/Focus-Ambition%20%7C%20Compounding%20%7C%20AI-orange)](PRINCIPLES.md)
 
+<p align="center">
+  <img src="assets/sam-altman.jpg" alt="Sam Altman" width="360" />
+</p>
+
 <br>
 
 **Sam Altman 的野心与执行操作系统。不是成功学口号，是可落地的战略框架。**
@@ -17,9 +21,24 @@
 把 **选对方向 · 复利飞轮 · 增长纪律 · 招聘与叙事 · 前沿 AI 战略** 压进一套 Agent Skill，  
 帮你在「想得太大」和「做得太碎」之间找到该押注的复利与本周该打的瓶颈。
 
-[看效果](#效果示例) · [安装](#安装) · [蒸馏了什么](#蒸馏了什么) · [边界说明](#边界说明)
+[为什么更好](#为什么这套-skills-更好) · [看效果](#效果示例) · [安装](#安装) · [蒸馏了什么](#蒸馏了什么) · [FAQ](#faq)
 
 </div>
+
+---
+
+## 为什么这套 Skills 更好
+
+常见「名人 Skill」容易变成口号合集（「要有野心」「要复利」）。  
+**Sam.skill** 把 Sam 式思维压成可执行检查单：
+
+- **Compounding Bet**：复利押在哪里？
+- **Main Bottleneck**：本周只打哪一个约束？
+- **Next 7 Days**：三条可验证动作
+- **AI 战略**：工作流、经济模型、分发、反馈闭环，而不是「我们也做 AI」
+
+配合 `PLAYBOOK.md` 处理：方向过多、留存差却砸增长、融资叙事空洞等**具体烂局面**。  
+**不扮演 Sam**，不重建其推文/访谈原文。
 
 ---
 
@@ -151,6 +170,14 @@ cd sam-altman-skills
 | [paul-graham-skills](https://github.com/FranklinNexus/paul-graham-skills) | 想法 · 写作 · Maker |
 | **Sam.skill** | 野心 · 复利 · AI | **本仓库** |
 | [zhang-yiming-skills](https://github.com/FranklinNexus/zhang-yiming-skills) | 产品 · 组织 · 理性 |
+
+---
+
+## FAQ
+
+### Contributors 显示 Cursor Agent？
+
+来自历史 commit 中的 `Co-authored-by: Cursor` 行，已清理；若仍显示请硬刷新。详见 [kehan-skills FAQ](https://github.com/FranklinNexus/kehan-skills#faq)。
 
 ---
 

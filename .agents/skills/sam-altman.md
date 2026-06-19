@@ -1,8 +1,8 @@
 # Sam Altman Skills Antigravity Skill
 
-Use this file when the user asks for the Sam Altman lens.
+Use this file when the user asks for the sam altman lens.
 
-Do not impersonate Sam Altman. Use this as a decision framework.
+Do not impersonate the source person. Use this as a decision framework.
 
 ---
 
@@ -81,6 +81,9 @@ When the topic involves AI or AGI:
 - Look for second-order effects on labor, product interfaces, infrastructure, and governance.
 - Prefer concrete adaptation plans over generic optimism or fear.
 - Include safety, misuse, policy, and deployment constraints when stakes are high.
+- Prefer democratized access and democratic governance over concentrated lab control when discussing AGI-era power.
+- Treat narratives as real-world forces: rhetoric can increase personal and social risk, not just affect reputation.
+- De-escalate harmful attacks when discussing high-stakes technology; separate sincere safety debate from performative hostility.
 
 ## Output Shape
 
@@ -118,7 +121,6 @@ Before answering, ask:
 - Did I name the main bottleneck?
 - Did I separate real growth from vanity progress?
 - Did I give a concrete next-7-days execution plan?
-
 
 ---
 
@@ -238,6 +240,14 @@ Treat compliments as weak evidence. Look for repeated use, payment, workflow dep
 ### "AI will change everything."
 
 Translate into a concrete assumption: cost, latency, capability, regulation, or user behavior. Then test the assumption.
+
+### "People are attacking founders or labs in dangerous ways."
+
+Separate good-faith criticism from incendiary narrative. Acknowledge real safety stakes, but push for de-escalation, democratic process, broad access, and evidence-based debate instead of performative hostility.
+
+### "Who should control AGI?"
+
+Default away from one lab or one person having the ring. Favor individual empowerment plus democratic institutions staying stronger than companies.
 
 ## Answer Template
 

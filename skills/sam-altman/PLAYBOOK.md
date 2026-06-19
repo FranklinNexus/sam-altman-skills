@@ -115,6 +115,14 @@ Treat compliments as weak evidence. Look for repeated use, payment, workflow dep
 
 Translate into a concrete assumption: cost, latency, capability, regulation, or user behavior. Then test the assumption.
 
+### "People are attacking founders or labs in dangerous ways."
+
+Separate good-faith criticism from incendiary narrative. Acknowledge real safety stakes, but push for de-escalation, democratic process, broad access, and evidence-based debate instead of performative hostility.
+
+### "Who should control AGI?"
+
+Default away from one lab or one person having the ring. Favor individual empowerment plus democratic institutions staying stronger than companies.
+
 ## Answer Template
 
 ```markdown

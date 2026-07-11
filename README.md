@@ -5,7 +5,7 @@
 > _"Think in years. Execute in weeks."_
 
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-compatible-blue)](https://github.com/FranklinNexus/sam-altman-skills)
-[![Runtime](https://img.shields.io/badge/Runtime-Cursor%20%7C%20Claude%20%7C%20Antigravity-lightgrey)](https://github.com/FranklinNexus/sam-altman-skills)
+[![Runtime](https://img.shields.io/badge/Runtime-Codex%20%7C%20Cursor%20%7C%20Claude%20%7C%20Antigravity-lightgrey)](https://github.com/FranklinNexus/sam-altman-skills)
 [![Focus](https://img.shields.io/badge/Focus-Ambition%20%7C%20Compounding%20%7C%20AI-orange)](PRINCIPLES.md)
 
 <p align="center">
@@ -83,6 +83,18 @@ Sam 式判断 ❯  别讲「我们也用 AI」。
 
 ## 安装
 
+### Codex（推荐）
+
+让 Codex 直接从 GitHub 安装本仓库中的 skill，或在克隆后运行：
+
+```powershell
+.\scripts\install.ps1 -Platform codex
+```
+
+安装目标为 `~/.codex/skills/`。重启 Codex 后生效。
+
+### 其他 Agent Runtime
+
 ```powershell
 git clone https://github.com/FranklinNexus/sam-altman-skills.git
 cd sam-altman-skills
@@ -151,8 +163,8 @@ cd sam-altman-skills
 ## 参考语料
 
 本仓库是 **Sam Altman 公开内容的行为蒸馏**，不是全文库。  
-中文译文见 [PG · Sam · 张一鸣中文译文库 → `sam-altman/`](https://github.com/FranklinNexus/founder-blog-zh/tree/main/sam-altman)（仅 Sam，与 PG、张一鸣分目录）。  
-语料来自**互联网公开记录**；说明见 [NOTICE.md](https://github.com/FranklinNexus/founder-blog-zh/blob/main/NOTICE.md)。
+中文译文见 [PG · Sam · 张一鸣中文译文库 → `sam-altman/`](https://github.com/FranklinNexus/pg-sam-zym-blog-zh/tree/main/sam-altman)。
+语料来自**互联网公开记录**；说明见 [NOTICE.md](https://github.com/FranklinNexus/pg-sam-zym-blog-zh/blob/main/NOTICE.md)。
 
 ---
 
